@@ -16,10 +16,12 @@
 
  <strong> O site consta de um layout caracteristico de um site de estica com carrousel e botões de login e Cadastro 🔁
 
+###  📑 Cadastro
 > ![tela_inicial](./assets/imagens/Cadastro.png)
 
  <strong> Um pequeno formulario de de cadastro de clientes. 🔁
 
+###  📌 Login
  > ![tela_inicial](./assets/imagens/login.png)
 
  <strong> A tela de login para clientes cadastrados por escolha apenas um cliente padrao foi cadastrado como adminstrador do banco de dados (). 🔁
